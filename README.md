@@ -14,7 +14,7 @@
   
 * **Links to my M.Sc. dissertation and Ph.D. thesis:**
 
-  * https://www.arca.fiocruz.br/handle/icict/6943 (LASZLO @ GALAXY - Um protótipo de serviço de montagem de genomas a partir de dados de sequenciamento de próxima geração (NGS)**)
+  * https://www.arca.fiocruz.br/handle/icict/6943 (LASZLO @ GALAXY - Um protótipo de serviço de montagem de genomas a partir de dados de sequenciamento de próxima geração (NGS))
   * https://discovery.dundee.ac.uk/en/studentTheses/a-quantitative-exploration-of-causes-of-false-positive-single-nuc (A Quantitative Exploration of Causes of False Positive Single Nucleotide Polymorphisms in Next-Generation Sequencing Data)
   
 * **My LinkedIn profile:**
