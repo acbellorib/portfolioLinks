@@ -1,6 +1,6 @@
 # portfolioLinks
 
-* **Links to software I have developed for other organisations or GitHub repos:**
+* **Links to software I have developed for other organizations or GitHub repos:**
 
   * https://github.com/CGEBM/BarSeq (A *wrapper* script for NGS Bar-seq analysis)
   * https://github.com/acbellorib/DIO-Everis_FSDev_Tasks (Tasks carried out while attending the DIO-Everis Full Stack Developer Bootcamp (https://digitalinnovation.one/bootcamps/everis-fullstack-developer))
@@ -11,6 +11,9 @@
   * https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0801-z (An investigation of causes of false positive single nucleotide polymorphisms using simulated reads from a small eukaryote genome)
   * https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006405 (Elevated catalase expression in a fungal pathogen is a double-edged sword of iron)
   * https://link.springer.com/article/10.1007%2Fs10681-019-2427-0 (QTL-seq reveals a major root-knot nematode resistance locus on chromosome 11 in rice (*Oryza sativa* L.))
+  * https://www.nature.com/articles/s41598-020-78062-2 (Imprinting methylation predicts hippocampal volumes and hyperintensities and the change with age in later life)
+  * https://doi.org/10.3390/ani13193107 (Homemade Nucleic Acid Preservation Buffer Proves Effective in Preserving the Equine Faecal Microbiota over Time at Ambient Temperatures)
+  * https://doi.org/10.1016/j.peptides.2023.171139 (Venomous gland transcriptome and venom proteomic analysis of the scorpion Androctonus amoreuxi reveal new peptides with anti-SARS-CoV-2 activity)
   
 * **Links to my M.Sc. dissertation and Ph.D. thesis:**
 
