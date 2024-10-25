@@ -13,7 +13,7 @@
   * https://link.springer.com/article/10.1007%2Fs10681-019-2427-0 (QTL-seq reveals a major root-knot nematode resistance locus on chromosome 11 in rice (*Oryza sativa* L.))
   * https://www.nature.com/articles/s41598-020-78062-2 (Imprinting methylation predicts hippocampal volumes and hyperintensities and the change with age in later life)
   * https://doi.org/10.3390/ani13193107 (Homemade Nucleic Acid Preservation Buffer Proves Effective in Preserving the Equine Faecal Microbiota over Time at Ambient Temperatures)
-  * https://doi.org/10.1016/j.peptides.2023.171139 (Venomous gland transcriptome and venom proteomic analysis of the scorpion Androctonus amoreuxi reveal new peptides with anti-SARS-CoV-2 activity)
+  * https://doi.org/10.1016/j.peptides.2023.171139 (Venomous gland transcriptome and venom proteomic analysis of the scorpion *Androctonus amoreuxi* reveal new peptides with anti-SARS-CoV-2 activity)
   
 * **Links to my M.Sc. dissertation and Ph.D. thesis:**
 
