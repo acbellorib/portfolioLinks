@@ -14,6 +14,9 @@
   * https://www.nature.com/articles/s41598-020-78062-2 (Imprinting methylation predicts hippocampal volumes and hyperintensities and the change with age in later life)
   * https://doi.org/10.3390/ani13193107 (Homemade Nucleic Acid Preservation Buffer Proves Effective in Preserving the Equine Faecal Microbiota over Time at Ambient Temperatures)
   * https://doi.org/10.1016/j.peptides.2023.171139 (Venomous gland transcriptome and venom proteomic analysis of the scorpion *Androctonus amoreuxi* reveal new peptides with anti-SARS-CoV-2 activity)
+  * https://doi.org/10.1093/ismejo/wrae224 (Bacterial population-level trade-offs between drought tolerance and resource acquisition traits impact decomposition)
+  * https://doi.org/10.1016/j.lanmic.2025.101118 (Universal versus targeted chlorhexidine and mupirocin decolonisation and clinical and molecular epidemiology of Staphylococcus epidermidis bloodstream infections in patients in intensive care in Scotland, UK: a controlled time-series and longitudinal genotypic study)
+  * https://doi.org/10.1016/j.ijantimicag.2024.107380 (Genomic and growth fitness study of extended-spectrum β-lactamase-producing Escherichia coli from bloodstream infections after introduction of a national 4C antimicrobial stewardship policy in Scotland)
   
 * **Links to my M.Sc. dissertation and Ph.D. thesis:**
 
